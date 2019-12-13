@@ -1,0 +1,396 @@
+body{
+	margin: auto;
+	width: 980px;
+	font-family: georgia;
+}
+.Header{
+	border-top: solid 4px #A9F16C; 
+	height: 100px;
+	background: #290000;
+	color: white;
+	}
+.LOGO{
+	float: left;
+	margin: 76px 0px 0px 100px;
+	font-size: 30px;
+}
+.menu{
+	float: right;
+	list-style: none;
+	font-size: 15px;
+	padding: 69px 0px 0px 0px;
+}
+.button{
+	display: inline-block;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.button:hover{
+	background:#56de53;
+	border-radius: 5px;
+}
+
+
+
+.Second{
+	height: 500px;
+	background: #290000;
+}
+.wrapper{
+	float: left;
+	margin-left: 100px;
+	color: white;
+	width: 330px;
+}
+.slogan{
+	font-size: 50px;
+	margin-top: 100px;
+}
+.ROZ{
+	margin-top: 20px;
+	color: grey;
+}
+.Read{
+	margin-top: 20px;
+	color: white;
+	width: 130px;
+	padding: 9px 5px;
+}
+.Read:hover{		
+	background:#56de53;
+	border-radius: 5px;
+	padding: 9px 5px;
+}
+.o{
+	background: url(0.jpg);
+	width: 360px;
+	height: 360px;
+	border-radius: 180px;
+	float: right;
+	margin-right: 100px;
+	margin-top: 50px;
+}
+.Third{
+	background: #780000;
+	height: 305px;
+	padding-top: 60px;
+}
+.ul_class{
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+.l20{
+	margin: 0px 8px 0px 8px;
+	background: white;
+	display: inline-block;
+	height: 305px;
+	width: 225px;
+}
+h2{
+	text-align: center;
+}
+.Lorem{
+	text-align: center;
+}
+.l20:hover{
+	background: #56de53;
+	color: white; 
+}
+.image1{
+	content: url(бургер.jpg);
+	margin: 20px 0px 0px 53px;
+}
+.image2{
+	content: url(картошка.jpg);
+	margin: 20px 0px 0px 53px;
+}
+.image3{
+	content: url(Суши.jpg);
+	margin: 20px 0px 0px 53px;
+}
+.image4{
+	content: url(Пицца.jpg);
+	margin: 20px 0px 0px 53px;
+}
+h2{
+	text-align: center;
+}
+.Lorem{
+	font-size: 18px;
+	text-align: center;
+	color: grey;
+}
+
+
+
+.Line{
+	background: #660000;
+	border: none; /* Убираем границу */
+    background-image: url(line.png);
+    background-repeat: repeat-x;
+    width: 100%;
+    height: 84px;
+    padding-top: 30px;
+}
+.Work{
+	text-align: center;
+	font-family: times new roman;
+	font-size: 35px;
+	padding: 6px 6px 6px 6px;
+	width: 250px;
+	height: 44px;
+	color: white;
+	background: #303030;
+	border-radius: 10px;
+	margin-left: 362px;
+}
+
+
+.fourth{
+	height: 470px;
+	width: 100%;
+	background:	 #780000;
+}
+
+p{
+	position:absolute;
+	bottom:0;
+	margin: 0px;
+	color: white;
+	font-size: 18px;
+	padding-left: 68px;
+	background: #1C161A;
+	width: 217px;
+}
+.i1{
+	margin: 0px 15px 0px 16px;
+	float: left;
+	height: 185px;
+	width: 285px;
+	border: 5px solid white;
+	background: url(six/d.png);
+	position:relative;
+}
+.i2{
+	margin: 0px 15px 0px 16px;
+	float: left;
+	height: 185px;
+	width: 285px;
+	border: 5px solid white;
+	background: url(six/k.jpg);
+	position:relative;
+}
+.i3{
+	margin: 0px 15px 0px 16px;
+	float: left;
+	height: 185px;
+	width: 285px;
+	border: 5px solid white;
+	background: url(six/n.jpg);
+	position:relative;
+}
+.i4{
+	margin: 30px 15px 0px 16px;
+	float: left;
+	height: 185px;
+	width: 285px;
+	border: 5px solid white;
+	background: url(six/s.jpg);
+	position:relative;
+}
+.i5{
+	margin: 30px 15px 0px 16px;
+	float: left;
+	height: 185px;
+	width: 285px;
+	border: 5px solid white;
+	background: url(six/с.jpg);
+	position:relative;
+}
+.i6{
+	margin: 30px 15px 0px 16px;
+	float: left;
+	height: 185px;
+	width: 285px;
+	border: 5px solid white;
+	background: url(six/napoi.jpg);
+	position:relative;
+}
+.i1:hover{
+	border: 5px solid green;
+	}
+.i2:hover{
+	border: 5px solid green;
+	}
+.i3:hover{
+	border: 5px solid green;
+	}
+.i4:hover{
+	border: 5px solid green;
+	}
+.i5:hover{
+	border: 5px solid green;
+	}
+.i6:hover{
+	border: 5px solid green;
+	}
+
+
+
+
+
+
+
+.fifth{
+	padding-top: 30px;
+	height: 360px;
+	background: #383838;
+}
+.Dod{
+	font-size: 15px;
+	margin-left: 55px;
+	width: 245px;
+	height: 100%;
+	float: left;
+}
+.D{
+	margin-top: 0px;
+	color: white;
+	list-style: none;
+	padding-left: 0px;
+}
+.Post{
+	color: #56de53;
+	padding-top: 30px;
+}
+.Admin{
+	padding-top: 15px;
+	color: #8f8f8f;
+}
+.gmail{
+	color: #56de53;
+}
+.Data{
+	padding-top: 15px;
+	color: #8f8f8f;
+}
+.info{
+	padding-top: 10px;
+	color: #8f8f8f;
+}
+.Read1{
+	color: #56de53;
+	padding-top: 10px;
+}
+
+
+
+
+.Pop{
+	font-size: 15px;
+	width: 220px;
+	height: 100%;
+	float: left;
+}
+.P{
+	margin-top: 0px;
+	color: white;
+	padding-left: 30px;
+}
+.Pbutton{
+	color: white;
+	list-style: none;
+	margin-bottom: 30px;
+}
+.Button2{
+	text-decoration: underline;
+	margin-top: 0px;
+	color: #56de53;
+}
+
+
+.Dop{
+	font-size: 15px;
+	width: 220px;
+	height: 100%;
+	float: left;
+}
+.DP{
+	list-style: none;
+	margin-top: 0px;
+	color: white;
+	padding-left: 0px;
+}
+.Dbutton{
+	color: white;
+	margin-bottom: 30px;
+}
+.Button3{
+	margin-top: 10px; 
+	font-size:13px;
+}
+
+
+.Vid{
+	font-size: 15px;
+	width: 220px;
+	height: 100%;
+	float: left;
+}
+.VD{
+	list-style: none;
+	margin-top: 0px;
+	color: white;
+	padding-left: 10px;
+}
+.Vbutton{
+	color: white;
+	margin-bottom: 30px;
+}
+.Button4{
+	font-size: 14px;
+	margin-top: 5px;
+	height: 17px;
+	width: 215px;
+	background: #292929;
+	border-radius: 5px; 
+	padding: 9px 5px;
+}
+.Message{
+	font-size: 14px;
+	margin-top: 5px;
+	height: 74px;
+	width: 215px;
+	background: #292929;
+	border-radius: 5px; 
+	padding: 3px 5px;
+}
+.Submit{
+	color: #292929;
+	font-size: 16px;
+	margin-top: 5px;
+	padding: 7px 0px 5px 10px;
+	height: 23px;
+	width: 65px;
+	background: #56de53;
+	border-radius: 5px; 
+}
+.Last{
+	height: 58px;
+	background: #383838;
+	color: #8f8f8f;
+	border-top: solid 2px black; 
+}
+.L{
+	font-size: 16px;
+	list-style: none;
+}
+.Sp{
+	float: left;
+	margin-left: 30px;
+}
+.PIB{
+	margin-right: 30px;
+	float: right; 
+}
